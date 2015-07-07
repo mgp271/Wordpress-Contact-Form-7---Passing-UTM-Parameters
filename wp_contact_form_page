@@ -1,0 +1,20 @@
+<div style="display:inline-block;">
+<div style="float: left; width: 30%;"> 
+<p align="right" style="margin-right:10px;">Name*</p>
+<p align="right" style="margin-right:10px;">Email*</p>
+</div>
+
+<div style="float: right; width: 70%;">
+<div style="margin-bottom:10px;">[text* name 1/]</div>
+<div style="margin-bottom:10px;">[email* email]</div>
+
+// UTM PARAMETERS
+[hidden utm_source id:utm_source]
+[hidden utm_medium id:utm_medium]
+[hidden utm_term id:utm_term]
+[hidden utm_campaign id:utm_campaign]
+
+[submit class:buttons_product "Submit"]
+
+</div>
+</div>
